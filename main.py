@@ -45,14 +45,8 @@ t.goto(0,100)
 t.pencolor("purple")
 t.write("Winter Olympics" , font=("Arial",30,"bold italic"),align='center')
 
+#text2
 t.goto(0,-100)
 t.write("2026" , font=("Arial",30,"bold italic"),align='center')
 
 turtle.done()
-
-
-
-
-
-
-
